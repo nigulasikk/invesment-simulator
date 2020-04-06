@@ -1,0 +1,10 @@
+.App{
+  padding:50px 100px;
+}
+.stock-container {
+  margin:50px auto;
+}
+#invesment-canvas {
+  margin-top:50px;
+  width:100%;
+}
